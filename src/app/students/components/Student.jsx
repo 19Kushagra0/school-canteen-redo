@@ -89,8 +89,8 @@ export default function Student() {
               </button>
             </div>
           </div>
-        </div>
-      )}
+        </Link>
+      </div>
     </section>
   );
 }

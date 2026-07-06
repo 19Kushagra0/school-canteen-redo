@@ -141,9 +141,12 @@ export default function StudentDetail() {
                 Cancel
               </button>
             </div>
+            <span className="order-amount">₹order.amount</span>
           </div>
         </div>
-      )}
+      </div>
+
+      <button className="place-order-btn">Place New Order</button>
     </section>
   );
 }
